@@ -1,4 +1,3 @@
-structured-google-search
-========================
+Structured Google searches using [schema.org](http://schema.org/) data types.
 
-Structured Google searches using schema.org data types
+TODO: add properties
